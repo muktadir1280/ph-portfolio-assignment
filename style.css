@@ -133,3 +133,54 @@
     .long-banner i {
         margin-left: 15px;
     }
+    /* starts about me parts */
+    
+    .one {
+        margin-top: 80px;
+    }
+    
+    .myself-title h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 47.4px;
+        color: #FFFFFF;
+    }
+    
+    .myself-desc p {
+        margin-top: 20px;
+        color: #FFFFFF80;
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21.33px;
+    }
+    
+    .star {
+        display: flex;
+        margin-top: 100px;
+    }
+    
+    .about-me {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .experience-age h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 700;
+        font-size: 47px;
+        line-height: 47px;
+        color: #FFFFFF;
+        margin-top: 20px;
+    }
+    
+    .experience-desc p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        color: #FFFFFF;
+        margin-top: 10px;
+        text-align: right;
+    }
