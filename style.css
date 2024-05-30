@@ -68,3 +68,55 @@
     .banner-container {
         margin-top: 100px;
     }
+    
+    .motto {
+        color: #FFFFFF;
+        font-family: "Rubik", sans-serif;
+        font-size: 24px;
+        font-weight: 300px;
+        line-height: 28.44px;
+        margin-top: 30px;
+        word-spacing: 2px;
+        word-spacing: 10px;
+    }
+    
+    .button {
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid white;
+        width: 250px;
+        margin-top: 40px;
+        font-family: "Rubik", sans-serif;
+        font-size: 25.69px;
+        font-weight: 400px;
+        line-height: 30.44px;
+        padding: 10px;
+        gap: 15px;
+        border-radius: 50px;
+    }
+    
+    .button a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .portfolio {
+        display: flex;
+        background-color: #FD6F00;
+        border-radius: 5px;
+    }
+    
+    .portfolio-icon {
+        margin: 3px;
+        color: white;
+        height: 25px;
+        width: 25px;
+    }
+    
+    .social {
+        margin-top: 40px;
+    }
+    
+    .social a {
+        margin: 10px;
+    }
