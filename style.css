@@ -120,3 +120,16 @@
     .social a {
         margin: 10px;
     }
+    
+    .long-banner {
+        display: flex;
+        gap: 30px;
+        margin-top: 40px;
+        background-color: black;
+        height: 55px;
+        rotate: -5deg;
+    }
+    
+    .long-banner i {
+        margin-left: 15px;
+    }
