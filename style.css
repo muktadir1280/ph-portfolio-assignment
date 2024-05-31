@@ -184,3 +184,86 @@
         margin-top: 10px;
         text-align: right;
     }
+    /* experience container starts */
+    
+    .experience-container {
+        display: flex;
+        justify-content: space-between;
+        height: 500px;
+        width: 100%;
+        background-color: #2d2531;
+        margin-top: 50px;
+    }
+    
+    .italic {
+        font-family: "Rubik", sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 24px;
+        color: #FFFFFF;
+        font-style: italic;
+    }
+    
+    .experience-para h3 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 56px;
+        color: #FFFFFF;
+        margin-top: 10px;
+    }
+    
+    .experience-left p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin-top: 15px;
+    }
+    
+    .experience-left {
+        padding: 100px;
+    }
+    
+    .experience-right {
+        padding: 100px;
+        margin-top: px;
+    }
+    
+    .duration {
+        display: flex;
+        justify-content: space-between;
+        margin-right: 50px;
+        gap: 100px;
+    }
+    
+    .duration .big {
+        font-family: "Rubik", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+        color: #FFFFFF;
+        font-style: italic;
+    }
+    
+    .duration .small {
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+    
+    .works h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 48px;
+        color: #FFFFFF;
+        text-transform: uppercase;
+    }
+    
+    .sum {
+        margin-top: 40px;
+    }
