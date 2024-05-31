@@ -434,3 +434,102 @@
     #reverse {
         margin-top: 80px;
     }
+    
+    .contact-sum {
+        margin-top: 200px;
+        text-align: center;
+    }
+    
+    .contact-title h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 24px;
+        color: #FFFFFF;
+        font-style: italic;
+    }
+    
+    .cotact-desc p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 56px;
+        color: #FFFFFF;
+        margin-top: 10px;
+        text-transform: uppercase;
+    }
+    /* form part start here */
+    
+    .form-container {
+        margin-top: 50px;
+        height: 370px;
+        width: 70%;
+        margin-left: 300px;
+        background-color: #34261b;
+        padding: 80px;
+    }
+    
+    .form-container h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 48px;
+        color: #FFFFFF;
+        text-transform: uppercase;
+    }
+    
+    .besides {
+        margin-top: 30px;
+        display: flex;
+        gap: 500px;
+    }
+    
+    .besides p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-top: 10px;
+        text-transform: uppercase;
+        border-bottom: 1px solid white;
+        width: 500px;
+        padding-bottom: 5px;
+    }
+    
+    .another p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-top: 55px;
+        text-transform: uppercase;
+    }
+    
+    .line {
+        border-bottom: 1px solid white;
+    }
+    
+    .file {
+        font-family: "Rubik", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FFFFFF;
+        text-transform: uppercase;
+        margin-top: 10px;
+        word-spacing: 3px;
+    }
+    
+    .last-button {
+        font-family: "Rubik", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-top: 50px;
+        background-color: #FD6F00;
+        padding: 20px;
+        width: 200px;
+    }
