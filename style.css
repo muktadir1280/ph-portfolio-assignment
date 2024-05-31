@@ -287,7 +287,7 @@
         font-weight: 400;
         font-size: 18px;
         line-height: 21.33px;
-        color: #FFFFFF;
+        color: #FFFFFF80;
         margin-top: 15px;
     }
     
@@ -330,4 +330,107 @@
         height: 100px;
         background-color: black;
         padding: 120px;
+    }
+    /* poratfolio part starts */
+    
+    .portfolio-container {
+        margin-top: 150px;
+    }
+    
+    .portfolio-title h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 47.7px;
+        color: #FFFFFF;
+    }
+    
+    .portfolio-desc p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21.33px;
+        color: #FFFFFF80;
+        margin-top: 15px;
+    }
+    
+    .portfolio-sum {
+        text-align: center;
+    }
+    
+    .four-button {
+        display: flex;
+        margin-top: 60px;
+        margin-left: 29%;
+    }
+    
+    .four-button a {
+        padding: 0px 40px;
+        text-decoration: none;
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+        color: white;
+        border: 0.4px solid #545454;
+        background-color: black;
+        margin: 0px 10px;
+        padding: 15px;
+    }
+    
+    a.fixed {
+        background-color: #FD6F00;
+    }
+    
+    .projects-container-part {
+        margin-top: 50px;
+    }
+    
+    .projects-container-sum {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .project-images {
+        height: 300px;
+        width: 500px;
+        background-color: black;
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    .project-images img {
+        height: 300px;
+    }
+    
+    .projects-container-small h3 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-top: 20px;
+        font-style: italic;
+    }
+    
+    .projects-container-title h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 40px;
+        color: #FFFFFF;
+        margin-top: 30px;
+    }
+    
+    .projects-container-desc p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21.33px;
+        color: #FFFFFF80;
+        margin-top: 30px;
+    }
+    
+    #reverse {
+        margin-top: 80px;
     }
