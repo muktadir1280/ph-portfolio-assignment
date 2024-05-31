@@ -189,7 +189,7 @@
     .experience-container {
         display: flex;
         justify-content: space-between;
-        height: 500px;
+        height: 550px;
         width: 100%;
         background-color: #2d2531;
         margin-top: 50px;
@@ -266,4 +266,68 @@
     
     .sum {
         margin-top: 40px;
+        border-bottom: 1px solid wheat;
+    }
+    /* awards part starts */
+    
+    .award-container {
+        margin-top: 150px;
+    }
+    
+    .award-title h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 47.7px;
+        color: #FFFFFF;
+    }
+    
+    .award-desc p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21.33px;
+        color: #FFFFFF;
+        margin-top: 15px;
+    }
+    
+    .award-sum {
+        text-align: center;
+    }
+    
+    .black-box {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    
+    .black-box-title h1 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 28px;
+        color: #FFFFFF;
+    }
+    
+    .black-box-desc p {
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        color: #FFFFFF80;
+        margin-top: 30px;
+    }
+    
+    .black-box-two h3 {
+        font-family: "Rubik", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 28px;
+        color: #FFFFFF;
+    }
+    
+    .black-box {
+        height: 100px;
+        background-color: black;
+        padding: 120px;
     }
